@@ -1,6 +1,6 @@
 import Header from './components/Header'
 import Tareas from './components/Tareas'
-import AddTarea from './AddTarea'
+import AddTarea from './components/AddTarea'
 import {useState} from 'react'
 
 function App() {
